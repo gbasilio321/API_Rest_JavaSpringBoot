@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Maven / build
+**/target/
+*.class
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# arquivos grandes / binários
+*.exe
+*.zip
+*.tar.gz
